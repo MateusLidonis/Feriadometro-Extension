@@ -6,7 +6,7 @@ Essa extensão faz com que, ao iniciar o navegador (Google Chrome) seja disparad
 
 ### Como utilizar
 
-1. Por enquanto, a extensão não está disponível na loja, portanto, deve-se realizar o clone desse repositório:
+1. Por enquanto, a extensão não está disponível na loja, portanto, deve-se realizar o clone desse repositório (ou apenas fazer o download da pasta):
 
 ```sh
 git clone https://github.com/MateusLidonis/Feriadometro-Extension.git
